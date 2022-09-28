@@ -1,0 +1,56 @@
+{
+  "todos": [
+    {
+      "task": "Debug my code ",
+      "category": "Study",
+      "dueDate": "27 09 2022",
+      "id": 1
+    },
+    {
+      "task": "Laundry",
+      "category": "Grooming",
+      "dueDate": "22 09 2002",
+      "id": 2
+    },
+    {
+      "task": " Celebtrate ",
+      "category": "Relaxing",
+      "dueDate": "21 04 2021",
+      "id": 3
+    },
+    {
+      "task": "Finish the code Challenge ",
+      "category": "Study",
+      "dueDate": "2022-09-28",
+      "id": 4
+    },
+    {
+      "task": "Finish the code Challenge ",
+      "category": "Study",
+      "dueDate": "2022-09-28",
+      "id": 5
+    },
+    {
+      "task": "Finish the code Challenge ",
+      "category": "Study",
+      "dueDate": "2022-09-28",
+      "id": 6
+    },
+    {
+      "task": "Task Description",
+      "category": "Get category",
+      "dueDate": "2021-01-31",
+      "id": 7
+    },
+    {
+      "task": "",
+      "id": 8
+    },
+    {
+      "task": "Task Description",
+      "category": "purchase",
+      "dueDate": "2022-09-15",
+      "id": 9
+    }
+  ]
+}
